@@ -16,4 +16,4 @@ Agri-Insights-Dashboard/
 ├── README.md
 └── .gitignore
 
-See full README content inside project for architecture and setup.
+

@@ -1,0 +1,25 @@
+{
+    "name": "Agri Dashboard Theme",
+    "dataColors": [
+        "#66BB6A",
+        "#FFA726",
+        "#29B6F6",
+        "#FF7043",
+        "#AB47BC"
+    ],
+    "background": "#ffffff",
+    "foreground": "#1e1e1e",
+    "tableAccent": "#4CAF50",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "color": {
+                    "solid": {
+                        "color": "#1e1e1e"
+                    }
+                },
+                "fontFamily": "Segoe UI"
+            }
+        }
+    }
+}
